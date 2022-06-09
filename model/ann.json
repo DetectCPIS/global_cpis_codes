@@ -1,0 +1,35 @@
+{
+    "info": {
+    	"description": null, 
+    	"url": null, 
+    	"version": null, 
+    	"year": 2020, 
+    	"contributor": null, 
+    	"date_created": "2020-12-05 15:40:26.531336"}, 
+    "licenses": [
+    	{
+    		"url": null, 
+    		"id": 0, 
+    		"name": null
+    	}
+    ],
+    "images": [
+       
+    ],
+    "type": "instances",
+    "annotations": [
+    	
+    ],
+    "categories": [
+        {
+            "supercategory": null,
+            "id": 0,
+            "name": "crops_completed_circle"
+        },
+        {
+            "supercategory": null,
+            "id": 1,
+            "name": "crops_uncompleted_polygon"
+        }
+    ]
+}
