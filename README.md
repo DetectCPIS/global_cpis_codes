@@ -10,7 +10,7 @@ Here are some demo codes for the detection of CPIS in Sentinel-2 images.
 
 - CUDA version: 10.1
 
-- Dependent libraries: gdal(3.2.0) +  PyTorch(1.6.0) + MMDetection(v2.7.0) + mmcv(1.2.4) + shapely(1.7.1)
+- Dependent libraries: gdal(3.2.0) +  PyTorch(1.6.0) + MMDetection(v2.7.0) + mmcv-full(1.2.4) + shapely(1.7.1)
 
 - This project is based on [MMDetection](https://github.com/open-mmlab/mmdetection). Therefore the installation is the same as original MMDetection.
 
