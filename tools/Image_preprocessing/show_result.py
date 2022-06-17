@@ -23,7 +23,7 @@ def union_segm(
         ori_img_path,
         ref_json,
         merge_cats=False,
-        score_thr=[0.3,0.85],
+        score_thr=[0.85],
         save_path=None,
 
 ):
@@ -148,7 +148,7 @@ def show_result(
     ref_json,
     nms_merge_cats,
     nms_iou_thr = 0.5,
-    score_thr = [0.3, 0.85],
+    score_thr = [0.85],
 
 ):
     result_json = detect_result_to_json(
