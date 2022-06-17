@@ -12,7 +12,7 @@ if __name__ == '__main__':
     result_merge_cfg = dict(
         nms_thr=0.1,
         nms_merge_cats=True,
-        score_thr=[0.1, 0.85],
+        score_thr=[0.85],
     )
 
     work_dir = "test"
